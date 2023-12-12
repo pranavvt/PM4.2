@@ -7,3 +7,4 @@ be more efficient in their workflow. This application can be used by solo develo
 Pranav Poodari(pranavp1551)
 Mathew Padath (mpadath)
 Raghav Pajjur (rpajjur)
+Pratham chopra (pratc)
